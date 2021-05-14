@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eampe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eampe\\.nuget\\packages"
+    ]
+  }
+}
